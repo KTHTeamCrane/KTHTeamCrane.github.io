@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.23528998.css",
-    "main.js": "/static/js/main.281f2b6d.js",
+    "main.js": "/static/js/main.2c125d6c.js",
     "static/js/1927.3dd0dae9.chunk.js": "/static/js/1927.3dd0dae9.chunk.js",
     "static/js/7590.66bf2f6b.chunk.js": "/static/js/7590.66bf2f6b.chunk.js",
     "static/js/6725.56015f28.chunk.js": "/static/js/6725.56015f28.chunk.js",
@@ -72,6 +72,7 @@
     "static/js/4494.fd771d6c.chunk.js": "/static/js/4494.fd771d6c.chunk.js",
     "static/js/4290.98644152.chunk.js": "/static/js/4290.98644152.chunk.js",
     "static/media/finalLogo.png": "/static/media/finalLogo.70edce4d0f9eb87e76f1.png",
+    "static/media/litmusnews-ext.zip": "/static/media/litmusnews-ext.a7fe1c28384613c3e856.zip",
     "static/media/floatingImpostor.png": "/static/media/floatingImpostor.c6f050a64719cf00f88a.png",
     "static/media/impostor_dead.webp": "/static/media/impostor_dead.6483a0d67d681bbb48b3.webp",
     "static/media/ComboChromeFirefoxPlain.svg": "/static/media/ComboChromeFirefoxPlain.3a742fcbc61a36900dba2fa9eb94669f.svg",
@@ -79,7 +80,7 @@
     "static/media/progress.svg": "/static/media/progress.35a324922a5cef3a9ba6db3f9e61d9ed.svg",
     "static/media/file_search.svg": "/static/media/file_search.df900bc72ac428c8e273ce6ef4737c1e.svg",
     "main.23528998.css.map": "/static/css/main.23528998.css.map",
-    "main.281f2b6d.js.map": "/static/js/main.281f2b6d.js.map",
+    "main.2c125d6c.js.map": "/static/js/main.2c125d6c.js.map",
     "1927.3dd0dae9.chunk.js.map": "/static/js/1927.3dd0dae9.chunk.js.map",
     "7590.66bf2f6b.chunk.js.map": "/static/js/7590.66bf2f6b.chunk.js.map",
     "6725.56015f28.chunk.js.map": "/static/js/6725.56015f28.chunk.js.map",
@@ -152,6 +153,6 @@
   },
   "entrypoints": [
     "static/css/main.23528998.css",
-    "static/js/main.281f2b6d.js"
+    "static/js/main.2c125d6c.js"
   ]
 }
